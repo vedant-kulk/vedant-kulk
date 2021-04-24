@@ -29,7 +29,7 @@
 <a href="https://www.mongodb.com/2" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongo" width="50" height="50"/> </a> 
   
 </p>
-<br />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kulk&layout=compact&hide=html" alt="vedant-kulk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-kulk&show_icons=true&count_private=true" alt="vedant" width="50%"/></p>
