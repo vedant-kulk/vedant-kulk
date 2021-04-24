@@ -9,7 +9,7 @@
 <a href="https://twitter.com/VedantK68073869" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="vedant" height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/vedant007/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="vedant-kuk" height="50" width="50"/></a>
 
- <img align="right"  alt="GIF" src="giphy.gif" width="500" height="280" />
+ <img align="right"  alt="GIF" src="giphy.gif" width="500" height="200" />
 </p>
 
 
