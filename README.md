@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kulk&layout=compact&hide=html" alt="vedant-kulk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-kulk&show_icons=true&count_private=true" alt="vedant" width="50%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-kulk&show_icons=true&theme=gruvbox&count_private=true" alt="vedant" width="50%"/></p>
