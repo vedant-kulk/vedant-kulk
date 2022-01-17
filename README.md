@@ -2,7 +2,9 @@
 <h1 align="center">I'm Vedant</h1>
 <br />
 <h3 align="center">I am a Second Year Computer Engineering student studing in Pune Institute of Computer Technology</h3>
-
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/vedant-kulk" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
